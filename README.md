@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thafheem</h1>
 <h3 align="center">Year 4 CS Student at Heriot-Watt University</h3>
 
+- 🔭 Computer Science student with a passion for Data Science and Machine Learning. The potential of data to reveal insights, hidden trends and solve real-world problems is truly fascinating and is something that intrigues me.
+      I’m always looking forward to learning about new concepts and am eager to stay updated with the happenings in the tech world. 
+
+
 - 🔭 I’m currently working on my dissertation project titled **"AMD Detection and Grading using Machine Learning"**
 
 - 📫 Feel free to contact me at: **mohammedthafheem@gmail.com**

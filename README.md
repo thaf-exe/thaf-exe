@@ -10,6 +10,8 @@
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1tStAVRUYYwlLkPU1hxvjVjaKf3ef1yky/view?usp=drive_link)
 
+- 🔒 I tend to keep my personal repos private, reach out to me if you're interested in knowing more about them!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/thaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thaf" height="30" width="40" /></a>

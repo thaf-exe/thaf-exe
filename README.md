@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on my dissertation project titled **"AMD Detection and Grading using Machine Learning"**
 
-- 📫 How to reach me **mohammedthafheem@gmail.com**
+- 📫 Feel free to contact me at: **mohammedthafheem@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tStAVRUYYwlLkPU1hxvjVjaKf3ef1yky/view?usp=drive_link](https://drive.google.com/file/d/1tStAVRUYYwlLkPU1hxvjVjaKf3ef1yky/view?usp=drive_link)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1tStAVRUYYwlLkPU1hxvjVjaKf3ef1yky/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

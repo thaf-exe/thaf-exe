@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Mohammed Thafheem</h2>
+<h1>Mohammed Thafheem</h1>
 
 <strong>Data & AI Engineer</strong> · MSc Artificial Intelligence @ NTU Singapore
 
